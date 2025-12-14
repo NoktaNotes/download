@@ -3,6 +3,7 @@
 **Nokta notes** is a free, no nonsense note editor with a clean interface and a focus on usability. It uses its own file format (.nokta files) and supports unlimited nested notes
 
 #### ⬇️ [Download the latest version here](https://github.com/NoktaNotes/download/releases/latest/download/)
+##### 🔎 [Download the manual (.nokta file)](https://github.com/NoktaNotes/download/blob/main/Manual.nokta)
 
 ### Key Features
 * Rich text note editing
