@@ -8,7 +8,7 @@
 
 
 ### Key Features
-* Rich text note editing
+* Clean editor. Unlimited notes. Drag-and-drop organization
 * Flexible panels: hierarchy, table of contents, editor
 * Search and replace
 * Dark and light theme
