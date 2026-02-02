@@ -2,8 +2,8 @@
 ## About Nokta Notes
 **Nokta notes** is a free, no nonsense note editor with a clean interface and a focus on usability. It uses its own file format (.nokta files) and supports unlimited nested notes
 
-##### ℹ️ [Latest release info](https://github.com/NoktaNotes/download/releases)
-##### 🔎 [Download the manual (.nokta file)](https://github.com/NoktaNotes/download/raw/main/Manual.nokta)
+##### ℹ️ [Latest release info](https://github.com/BadgerSoft-NL/NoktaNotes/releases)
+##### 🔎 [Download the manual (.nokta file)](https://github.com/BadgerSoft-NL/NoktaNotes/raw/main/Manual.nokta)
 
 
 ### Key Features
@@ -27,7 +27,7 @@
 
 Found a bug or have a suggestion? Let me know via GitHub:
 
-1. Go to [GitHub Issues](https://github.com/NoktaNotes/download/issues)
+1. Go to [GitHub Issues](https://github.com/BadgerSoft-NL/NoktaNotes/issues)
 2. Click **New issue**
 3. Describe what happened (or what you'd like to see)
 4. Click **Submit new issue**
